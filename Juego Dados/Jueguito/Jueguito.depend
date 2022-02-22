@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\princesso\desktop\jueguito\main.cpp
+	<iostream>
+
+1592694174 source:c:\users\princesso\desktop\jueguito\tp10.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	"rlutil.h"
+
+1571569938 c:\users\princesso\desktop\jueguito\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1592696374 source:c:\users\princesso\desktop\jueguito\sofiplz.cpp
+	<cstdlib>
+	<ctime>
+
