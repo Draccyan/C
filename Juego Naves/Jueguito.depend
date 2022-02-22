@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1593713401 source:c:\users\pc\desktop\codeblocks\jueguito\tp10.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\pc\desktop\codeblocks\jueguito\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593716413 c:\users\pc\desktop\codeblocks\jueguito\funciones.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	"rlutil.h"
+	"funciones.h"
+	<ctime>
+
+1593723938 source:c:\users\princesso\downloads\jueguito(2)\jueguito\tp10.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\princesso\downloads\jueguito(2)\jueguito\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593723938 c:\users\princesso\downloads\jueguito(2)\jueguito\funciones.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"funciones.h"
+	<ctime>
+
